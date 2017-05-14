@@ -1,18 +1,25 @@
-1. Webseite lokal speichern, durch einfachen Befehl alle Quellen zur Originalseite umleiten
-2. jQuery-Befehle
-3. Optimizely einbinden
-4. Google Analytics einbinden und verschiedene Events abfangen
-5. crawling
-6. chaining
-7. cookies setzen
-8. Ajax Requests
-9 json einbinden
-10. Api einbinden
-11. Daten per get und post übermitteln, mit Parametern arbeiten
-12. React
-13. sass, gulp compiler (nur scss-Daten einchecken)
-14. node.js / grunt / gulp / webpack
+0 :: :: Webseite lokal speichern, durch einfachen Befehl alle Quellen zur Originalseite umleiten
+0 :: jQuery-Befehle
+0 :: Optimizely einbinden
+0 :: Google Analytics einbinden und verschiedene Events abfangen
+0 :: crawling
+0 :: chaining
+0 :: cookies setzen
+0 :: Ajax Requests
+0 :: json einbinden
+0 :: Api einbinden
+0 :: Daten per get und post übermitteln, mit Parametern arbeiten
+0 :: React
+0 :: sass, gulp compiler (nur scss-Daten einchecken)
+0 :: node.js / grunt / gulp / webpack
+0 :: passwort speichern in konsole, konsole farbig
+0 :: mit fork arbeiten
+0 :: linther
+0 :: debugging
+0 :: Handlebars
+0 :: sass & compass
+
 
 # Boilerplate Ordner
 ## js
-## css
+## css / scss
